@@ -14,6 +14,7 @@
 if [ $# -eq 1 ]
 then
     Num=$1
+    echo "ran the number :" $Num
     
 else
     echo -n "Enter a Number :"
