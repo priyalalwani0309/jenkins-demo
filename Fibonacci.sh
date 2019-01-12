@@ -1,6 +1,6 @@
 #!/bin/bash#!/bin/bash
 # SCRIPT:  fibo_iterative.sh
-# USAGE:   fibo_iterative.sh [Number]
+# USAGE:   fibo_iterative.sh [Number], Test SCM Poll
 # PURPOSE: Generate Fibonacci sequence.
 #                         \\\\ ////
 #                         \\ - - //
